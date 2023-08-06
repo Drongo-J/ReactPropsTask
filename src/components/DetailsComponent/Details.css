@@ -1,0 +1,13 @@
+.filled-stars {
+  font-size: 28px;
+  color: yellow;
+}
+
+.empty-stars {
+  font-size: 28px;
+  color: yellow;
+}
+
+.details-container{
+    padding-bottom: 10px;
+}
